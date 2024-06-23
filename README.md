@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋 My name is Laksika. You can call me Nile.</h1>
+<h1 align="left">Hi👋 My name is Laksika. You can call me NamNile.</h1>
 
 ###
 
