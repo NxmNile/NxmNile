@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently 3rd year student in the Department of Game and interactive media, Bangkok University<br>✨ I'm interested in 3D modeling and Game Development<br>✉️ You can contact me via laksikapanich@gmail.com<br>🧠 I am used to programming in Python, C, C# and Assembly</p>
+<p align="left">📚 I'm currently 4th year student in the Department of Game and interactive media, Bangkok University<br>✨ I'm interested in 3D modeling and Game Development<br>✉️ You can contact me via laksikapanich@gmail.com<br>🧠 I am used to programming in Python, C, C# and Assembly</p>
 
 ###
 
