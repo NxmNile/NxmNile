@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently 4th year student in the Department of Game and interactive media, Bangkok University<br>✨ I'm interested in 3D modeling and Game Development<br>✉️ You can contact me via laksikapanich@gmail.com<br>🧠 I am used to programming in Python, C, C# and Assembly</p>
+<p align="left">:books: I'm a Research Assistant at HITAP, Thailand. I graduated from the Department of Game and interactive media, Bangkok University.<br>:sparkles: I'm interested in 3D modeling , Game and Website Development.<br>:envelope: You can contact me via laksikapanich@gmail.com<br>:brain: I am used to programming in Python, C, C# and Assembly</p>
 
 ###
 
@@ -44,8 +44,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
 ###
 
 <h2 align="left">Socials</h2>
