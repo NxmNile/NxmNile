@@ -56,6 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
 
@@ -74,5 +75,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NxmNile/NxmNile/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nxmnile/Nxmnile/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
