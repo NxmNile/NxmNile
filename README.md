@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">:books: I'm a Research Assistant at HITAP, Thailand. I graduated from the Department of Game and interactive media, Bangkok University.<br>:sparkles: I'm interested in 3D modeling , Game and Website Development.<br>:envelope: You can contact me via laksikapanich@gmail.com<br>:brain: I am used to programming in Python, C, C# and Assembly</p>
+<p align="left">:books: I'm a Software Engineer at HITAP, Thailand. I graduated from the Department of Game and interactive media, Bangkok University.<br>:sparkles: I'm interested in 3D modeling , Game and Website Development.<br>:envelope: You can contact me via laksikapanich@gmail.com<br>:brain: I am used to programming in Python, C, C# and Assembly</p>
 
 ###
 
