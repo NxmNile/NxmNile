@@ -24,6 +24,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nxmnile/Nxmnile/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
