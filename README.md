@@ -56,12 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nxmnile&show_icons=true&locale=en&layout=compact" alt="nxmnile" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxmnile&show_icons=true&locale=en" alt="nxmnile" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxmnile&" alt="nxmnile" /></p>
-
 
 
 ###
